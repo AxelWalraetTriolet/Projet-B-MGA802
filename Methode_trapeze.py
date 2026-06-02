@@ -1,1 +1,4 @@
-# Module de la méthode des trapèze
+# Module de la méthode des trapèzes
+
+#maj main
+
