@@ -1,1 +1,1 @@
-# Module de la méthode des trapèzes
+# Module de la méthode des trapèze
